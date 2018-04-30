@@ -1,7 +1,7 @@
 # SAT Scores in New York City
 
 ## Introduction
-This project is focued on investigating the coorelations between SAT scores and demographics, race, gender and more in New York City. By focusing primarily on combining several messy data sets into a single clean one to make data exploration easier.
+This project is focused on investigating the coorelations between SAT scores and demographics, race, gender and more in New York City. By focusing primarily on combining several messy data sets into a single clean one to make data exploration easier.
 
 Here are the links to all of the data sets we'll be using:
 - [SAT scores by school](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4) - SAT scores for each high school in New York City
